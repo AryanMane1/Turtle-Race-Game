@@ -1,0 +1,13 @@
+Mark = 44 
+Elon = 37 
+Bill = 34 
+Newton = 32 
+Undertaker = 32 
+Ajay = 30 
+Dolly = 30 
+Aryan = 30 
+John = 29 
+Roman = 27 
+Brock = 27 
+
+Winner Of last Match => Elon
